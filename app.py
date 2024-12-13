@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 from transformers import BertTokenizer, TFBertForSequenceClassification
-import tensorflow
+import tensorflow as tf
 
 @st.cache(allow_output_mutation=True)
 def get_model():
