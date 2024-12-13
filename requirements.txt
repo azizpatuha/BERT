@@ -1,4 +1,5 @@
-streamlit
-torch 
-transformers
-tensor 
+numpy==2.2.0
+streamlit==1.40.2
+tensorflow==2.18.0
+tensorflow_intel==2.18.0
+transformers==4.47.0
