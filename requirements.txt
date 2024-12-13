@@ -1,5 +1,5 @@
 streamlit
 torch 
 transformers 
-tensor == 0.3.6
-tensorflow == 2.18.0
+tensor 
+tensorflow 
