@@ -15,8 +15,8 @@ user_input = st.text_area('Enter Text to Analyze')
 button = st.button("Analyze")
 
 d = {
-    1: 'negatif',
-    0: 'positif'
+    0: 'negatif',
+    1: 'positif'
 }
 
 if user_input and button:
